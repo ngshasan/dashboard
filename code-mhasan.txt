@@ -1,0 +1,4 @@
+(base) mhasan@IN-OTA-253021:/mnt/c/Users/mh105/Documents/Projects/github$ shiny create --template dashboard --mode express --github posit-dev/py-shiny-templates
+
+(base) mhasan@IN-OTA-253021:/mnt/c/Users/mh105/Documents/Projects/github$ cd dashboard/
+(base) mhasan@IN-OTA-253021:/mnt/c/Users/mh105/Documents/Projects/github/dashboard$ pip install -r requirements.txt
